@@ -1,0 +1,31 @@
+body{font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;}
+#wraper{padding-left:10px;margin-top:10px;}
+#pronounce span{position:relative;top:-3px;font-size:13px;font-weight:normal;margin-left:5px;color:#666699;}
+#pronounce span b{font-weight:normal;}
+#pronounce h2 strong{font-weight:normal;}
+#pronounce h2 strong{font-size:25px;margin-right:5px;color:green;}
+#pronounce h2 b{margin:0 3px;}
+.hr0{height:1px;border:none;border-top:1px dashed #0066CC;}
+.means{padding-left: 10px;}
+.means p{margin-top:0;}
+.means p strong{margin-right:4px;color:#000;font-size:14px;}
+.means p span{margin-right:10px;font-size:13px;}
+.web {padding-left: 10px;font-size:13px;}
+.web strong{margin-right:4px;color:#35a1d4;font-size:13px;}
+.web p span{margin-right:10px;font-size:13px;color:#000}
+.ico_blue{background-image:url(voice.gif);
+		background-repeat:no-repeat;
+		display:inline-block;
+		height:14px;
+		overflow:hidden;
+		width:15px;}
+.ico_blue:hover{background-position:-15px 0px;}
+.ico_red{background-image:url(voice.gif);
+		background-position:0px -15px;
+		background-repeat:no-repeat;
+		display:inline-block;
+		height:14px;
+		overflow:hidden;
+		width:15px;}
+.ico_red:hover{background-position:-15px -15px;}
+.vCri{display:inline-block;height:15px;position:relative;}

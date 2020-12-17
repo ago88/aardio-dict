@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="Simple translation tools" libEmbed="true" icon="res\stb.ico" ui="win" output="STB.exe" CompanyName="Ago88.com" FileDescription="Simple translation tools" LegalCopyright="Copyright (C) Ago88.com 2019" ProductName="Simple translation tools" InternalName="Simple translation tools" FileVersion="0.0.0.01" ProductVersion="0.0.0.01" publishDir="/Publish/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true" local="false">
+		<file name="frmTab1.aardio" path="res\frmTab1.aardio" comment="res\frmTab1.aardio"/>
+		<file name="frmTab2.aardio" path="res\frmTab2.aardio" comment="res\frmTab2.aardio"/>
+		<file name="frmTab3.aardio" path="res\frmTab3.aardio" comment="res\frmTab3.aardio"/>
+		<file name="skin.she" path="res\skin.she" comment="res\skin.she"/>
+		<file name="stb.ico" path="res\stb.ico" comment="res\stb.ico"/>
+		<folder name="assets" path="res\assets" comment="res\assets" embed="false">
+			<file name="dict.aardio" path="res\assets\dict.aardio" comment="res\assets\dict.aardio"/>
+			<file name="iciba.aardio" path="res\assets\iciba.aardio" comment="res\assets\iciba.aardio"/>
+			<file name="index.aardio" path="res\assets\index.aardio" comment="res\assets\index.aardio"/>
+			<file name="youdao.aardio" path="res\assets\youdao.aardio" comment="res\assets\youdao.aardio"/>
+			<folder name="css" path="res\assets\css" comment="res\assets\css">
+				<file name="style.css" path="res\assets\css\style.css" comment="res\assets\css\style.css"/>
+				<file name="voice.gif" path="res\assets\css\voice.gif" comment="res\assets\css\voice.gif"/>
+			</folder>
+			<folder name="js" path="res\assets\js" comment="res\assets\js">
+				<file name="disable.js" path="res\assets\js\disable.js" comment="res\assets\js\disable.js"/>
+				<file name="iciba.js" path="res\assets\js\iciba.js" comment="res\assets\js\iciba.js"/>
+				<file name="jquery.min.js" path="res\assets\js\jquery.min.js" comment="res\assets\js\jquery.min.js"/>
+				<file name="jquery.nicescroll.min.js" path="res\assets\js\jquery.nicescroll.min.js" comment="res\assets\js\jquery.nicescroll.min.js"/>
+				<file name="template-web.js" path="res\assets\js\template-web.js" comment="res\assets\js\template-web.js"/>
+			</folder>
+		</folder>
+	</folder>
+</project>
